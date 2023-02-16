@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello TWE</string>
+    <string name="my_name">Tan Wei En</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+</resources>
